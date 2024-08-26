@@ -49,6 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\HTML.cs" />
+    <Compile Include="Class\JR.cs" />
+    <Compile Include="Class\Reader.cs" />
+    <Compile Include="Class\XMLR.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
