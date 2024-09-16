@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Parser.Class
 {
-    class JR : Reader
+    class  JR : Reader
     {
         private string _path;
         private string _jsonText;
